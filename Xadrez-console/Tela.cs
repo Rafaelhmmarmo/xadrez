@@ -2,7 +2,6 @@
 using System;
 
 namespace Xadrez_console
-
 {
     class Tela
     {
